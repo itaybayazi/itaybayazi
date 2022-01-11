@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi! 👋, I'm Itay Bayazi
 
-<!--
-**itaybayazi/itaybayazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   -👨‍🎓 I'm a Computer Science student (3rd year).
+   -💪 Working well in a team and as an individual. 
+       I'm a hardworking, ambitious, and very creative person.
+       In addition, I am highly motivated to learn and develop my skills!
+ 
+🛠  Tech Stack
+    🧰   C C++ Java C# React Node.js
 
-Here are some ideas to get you started:
+    📲   Android (Java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🛢   SQL MongoDB
+
+    ⚙️   Git GitHub
+
+    🔧   Visual Studio Visual Studio Code IntelliJ Eclipse 
+
+    🎨   HTML5 CSS3 JavaScript
+    
+📫 How to reach me: 
+       📧 bayaziitay@gmail.com
+       🟦 LinkedIn: Itay Bayazi
