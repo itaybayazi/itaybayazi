@@ -4,6 +4,8 @@ Hi! 👋, I'm Itay Bayazi
    
  💪 Working well in a team and as an individual,
        i'm a hardworking, ambitious, and very creative person.
+       
+ 🎾 Between the ages of 16 and 18, I was ranked 4th in Israel in tennis.
    
  
 
