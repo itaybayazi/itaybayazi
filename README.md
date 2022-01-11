@@ -1,8 +1,8 @@
 Hi! 👋, I'm Itay Bayazi
 
-   -👨‍🎓 I'm a Computer Science student (3rd year).
+ 👨‍🎓 I'm a Computer Science student (3rd year).
    
-   -💪 Working well in a team and as an individual,
+ 💪 Working well in a team and as an individual,
        i'm a hardworking, ambitious, and very creative person.
    
  
