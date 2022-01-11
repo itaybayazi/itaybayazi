@@ -1,6 +1,6 @@
 Hi! 👋, I'm Itay Bayazi
 
- 👨‍🎓 I'm a Computer Science student (3rd year).
+ 👨‍🎓 I'm a Computer Science student (3rd year, average 90).
    
  💪 Working well in a team and as an individual,
        i'm a hardworking, ambitious, and very creative person.
