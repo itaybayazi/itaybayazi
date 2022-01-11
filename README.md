@@ -2,12 +2,13 @@ Hi! 👋, I'm Itay Bayazi
 
    -👨‍🎓 I'm a Computer Science student (3rd year).
    
-   -💪 Working well in a team and as an individual. 
-       I'm a hardworking, ambitious, and very creative person.
-       In addition, I am highly motivated to learn and develop my skills!
+   -💪 Working well in a team and as an individual,
+       i'm a hardworking, ambitious, and very creative person.
+   
  
-🛠  Tech Stack
 
+
+🛠  Tech Stack:
 
     🧰   C C++ Java C# React Node.js
 
@@ -22,5 +23,7 @@ Hi! 👋, I'm Itay Bayazi
     🎨   HTML5 CSS3 JavaScript
     
 📫 How to reach me: 
-       📧 bayaziitay@gmail.com
-       🟦 LinkedIn: Itay Bayazi
+
+     📧 bayaziitay@gmail.com
+       
+     🟦 LinkedIn: Itay Bayazi
