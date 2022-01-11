@@ -22,6 +22,8 @@ Hi! 👋, I'm Itay Bayazi
 
     🎨   HTML5 CSS3 JavaScript
     
+    💻   Windows 10 Linux Ubuntu 
+    
 📫 How to reach me: 
 
      📧 bayaziitay@gmail.com
