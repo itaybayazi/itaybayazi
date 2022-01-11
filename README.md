@@ -26,7 +26,7 @@ Hi! 👋, I'm Itay Bayazi
     
     💻   Windows 10 Linux Ubuntu 
     
-📫 How to reach me: 
+ 📫 How to reach me: 
 
      📧 bayaziitay@gmail.com
        
